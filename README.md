@@ -12,6 +12,10 @@ Linkhoot é um sistema simples de gerenciamento de links para usuários. Permite
 - Desativar links específicos.
 - Menu interativo via terminal.
 
+## 🖼️ Visão geral
+
+![Visão geral do sistema](02_linkhoot.png)
+
 ## Estrutura do projeto
 
 - `usuario.py`: Contém a classe `Usuario` com atributos do usuário e métodos para autenticação.
